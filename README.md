@@ -29,3 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Deplyment 
 ng build --prod --base-href="/frogbudget.github.io/"
 ngh --dir=dist/frogbudget
+ng deploy --cname=frogbudget.com
