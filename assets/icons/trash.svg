@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="50px" viewBox="0 0 38 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_ios_trash</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iOS-icon-Copy" transform="translate(-177.000000, -331.000000)">
+            <g id="icon_ios_trash" transform="translate(160.000000, 320.000000)">
+                <rect id="@bounds" x="0" y="0" width="72" height="72"></rect>
+                <rect id="Rectangle-65" fill="#FFFFFF" x="17" y="17" width="38" height="2"></rect>
+                <rect id="Rectangle-67" fill="#FFFFFF" x="35" y="23" width="2" height="32"></rect>
+                <polygon id="Rectangle-67" fill="#FFFFFF" points="27 23 29 23 31 55 29 55"></polygon>
+                <polygon id="Rectangle-67" fill="#FFFFFF" points="43 23 45 23 43 55 41 55"></polygon>
+                <path d="M29,15 L29,15 L29,19 L27,17 L45,17 L43,19 L43,15 C43,13.8974426 42.104423,13 41.0052166,13 L30.9947834,13 C29.8955208,13 29,13.8961959 29,15 L29,15 Z M27,15 C27,12.790861 28.7917156,11 30.9947834,11 L41.0052166,11 C43.2114745,11 45,12.7953562 45,15 L45,19 L27,19 L27,15 L27,15 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M21,17 L22.8577683,56.0131335 C22.9357216,57.6501537 24.3390054,59 25.9907522,59 L45.0092478,59 C46.6558914,59 48.095519,57.6627343 48.2133476,56.0131335 L51,17 L53,17 L50.2038436,58.0102936 C50.0912639,59.6614628 48.6594313,61 47.0057181,61 L23.9942819,61 C22.3405857,61 20.9390519,59.6591426 20.8641043,58.0102936 L19,17 L21,17 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

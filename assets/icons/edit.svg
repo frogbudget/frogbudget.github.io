@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_ios_edit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iOS-icon-Copy" transform="translate(-177.000000, -1259.000000)">
+            <g id="icon_ios_edit" transform="translate(160.000000, 1248.000000)">
+                <rect id="@bounds" x="0" y="0" width="72" height="72"></rect>
+                <path d="M47.131728,19 L45.131728,21 L19,21 L19,55 L53,55 L53,28.6880772 L55,26.6880772 L55,57 L17,57 L17,19 L47.131728,19 Z" id="Rectangle-44" fill="#FFFFFF"></path>
+                <path d="M55.5123782,16.3114991 L35.2869386,36.5369386 L37.408259,38.658259 L57.6336986,18.4328194 L59.0416306,19.8407514 L38.9497475,39.9326345 L32.4748737,41.4577608 L34,34.982887 L54.0918831,14.8910039 L55.5123782,16.3114991 Z" id="Rectangle-47" fill="#FFFFFF"></path>
+                <path d="M55.7189713,16.7653107 L62.7189713,16.7653107 L62.7189713,14.6607697 C62.7189713,13.551695 61.8324164,12.6526123 60.7130522,12.6526123 L57.7248903,12.6526123 C56.6170518,12.6526123 55.7189713,13.5450066 55.7189713,14.6607697 L55.7189713,16.7653107 Z" id="Rectangle-47" fill="#FFFFFF" transform="translate(59.218971, 14.708961) rotate(-315.000000) translate(-59.218971, -14.708961) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

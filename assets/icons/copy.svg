@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="48px" viewBox="0 0 39 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>copy_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iOS-icon-Copy" transform="translate(-390.000000, -1262.000000)" fill-rule="nonzero" stroke="#FFFFFF">
+            <g id="copy_icon" transform="translate(390.000000, 1262.000000)">
+                <path d="M0.535444429,3.5 L27.5,3.5 L27.5,0.5 L4,0.5 C2.23676405,0.5 0.77805926,1.80385293 0.535444429,3.5 Z" id="Rectangle-2" fill="#FFFFFF"></path>
+                <path d="M3.5,0.535444429 C1.80385293,0.77805926 0.5,2.23676405 0.5,4 L0.5,36.5 L3.5,36.5 L3.5,0.535444429 Z" id="Rectangle-2" fill="#FFFFFF"></path>
+                <rect id="Rectangle-2" stroke-width="4" x="11" y="12" width="26" height="34" rx="3"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
