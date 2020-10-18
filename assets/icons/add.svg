@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_ios_addition</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iOS-icon" transform="translate(-343.000000, -839.000000)">
+            <g id="icon_ios_addition" transform="translate(328.000000, 824.000000)">
+                <rect id="@bounds" x="0" y="0" width="72" height="72"></rect>
+                <path d="M36,55 L36,55 C46.4934102,55 55,46.4934102 55,36 C55,25.5065898 46.4934102,17 36,17 C25.5065898,17 17,25.5065898 17,36 C17,46.4934102 25.5065898,55 36,55 L36,55 Z M36,57 L36,57 C24.4020203,57 15,47.5979797 15,36 C15,24.4020203 24.4020203,15 36,15 C47.5979797,15 57,24.4020203 57,36 C57,47.5979797 47.5979797,57 36,57 L36,57 Z" id="Shape" fill="#007AFF" fill-rule="nonzero"></path>
+                <rect id="Rectangle-196" fill="#007AFF" x="25" y="35" width="22" height="2"></rect>
+                <rect id="Rectangle-196" fill="#007AFF" x="35" y="25" width="2" height="22"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
